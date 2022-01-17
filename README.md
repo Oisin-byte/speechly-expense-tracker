@@ -1,4 +1,4 @@
-This is an text based or voice assisted expesnse tracker wich as features such as:
+This is an text based or voice assisted expesnse tracker wich as features such as: <br>
   Catergories,
   Voice Command,
   Pie Charts and Graphs,
